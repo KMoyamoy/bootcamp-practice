@@ -10,6 +10,7 @@ Update README to practice branching
 
 *CREATING CONFLICTS*
 
-Updated this file on remote
+Updated this line on remote
+Update this line on local
 
 =========================================
