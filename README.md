@@ -1,9 +1,9 @@
 This is a new README to practice commit in VSCode
 
 =========================================
-* BRANCHING *
+*BRANCHING*
 Update README to practice branching
 =========================================
-* CREATING CONFLICTS *
+*CREATING CONFLICTS*
 Updated this file on remote
 =========================================
