@@ -1,0 +1,1 @@
+This is a new README to practice commit in VSCode
