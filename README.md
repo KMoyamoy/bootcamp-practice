@@ -1,1 +1,3 @@
 This is a new README to practice commit in VSCode
+
+Update README to practice branching
