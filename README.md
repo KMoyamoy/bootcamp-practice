@@ -10,10 +10,7 @@ Update README to practice branching
 
 *CREATING CONFLICTS*
 
-Update
-
-
-Create Conflicts
+This should not create a conflict
 Updated this line on remote
 Update this line on local
 
