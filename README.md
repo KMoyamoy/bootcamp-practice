@@ -6,10 +6,6 @@ Update README in a branch -> creates conflict
 
 Another update in a branch -> still in conflict with main
 
-
-Update README in a branch -> creates conflict
-
-Another update in a branch -> still in conflict with main
-
-
 Update in main branch
+
+Updated this file on remote
