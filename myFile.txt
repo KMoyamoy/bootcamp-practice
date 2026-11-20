@@ -1,2 +1,3 @@
 Git branch demo
 main branch change
+change through feature 2
